@@ -1,0 +1,25 @@
+/* BLACK */
+body {
+    color: white !important;
+    background-color:  #19171A;
+}
+
+.navN {
+    background: linear-gradient(90deg, rgba(43, 3, 98, 1) 0%, rgba(86, 16, 185, 1) 25%, rgba(221, 119, 15, 1) 100%);
+}
+
+small {
+    color: white;
+}
+
+table td {
+    color: white;
+}
+
+input[type="search"] {
+    border: 1px solid #253341;
+}
+
+.searchInput input[type="search"]:focus + i {
+    color: white;
+}
