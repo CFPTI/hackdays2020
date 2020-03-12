@@ -14,7 +14,7 @@
 <body>
      <?php require_once 'nav.php'; ?>
      <div class="container">
-          <div class="mx-auto search">  
+          <div class="mx-auto search">
                <form action="#" method="post">
                     <div id="searchInputRes" class="searchInput">
                          <span>

@@ -15,13 +15,13 @@
     <div class="container">
         <div class="article">
             <div class="row justify-content-center align-middle">
-                <div class="col-4">
+                <div class="col-md-4">
                     <p class="keyword">NAT</p>
                     <p class="keyword">BOOL</p>
                     <p class="keyword">ADDSEARCH</p>
                     <p class="keyword">RMSEARCH</p>
                 </div>
-                <div class="col-4">
+                <div class="col-md-4">
                     <p class="def">Une recherche avec l'expression naturel...</p>
                     <p class="def">Une recherche faite avec des expressions tels que le < > + - ...</p>
                     <p class="def">Ajouter une recherche dans la liste...</p>
