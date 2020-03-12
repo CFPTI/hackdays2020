@@ -76,3 +76,30 @@ body {
 .article p {
     height: 50px;
 }
+
+/* Icon */
+.fadeIn {
+    animation: opac 0.8s;
+}
+
+@keyframes opac
+{
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.icon {
+    margin-top: 25px;
+    height: 50px;
+}
+
+.icon img {
+    border-radius: 10%;
+    padding: 5px;
+    background-color: rgba(80, 80, 80, 0.3);
+    height: 40px;
+}

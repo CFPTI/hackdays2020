@@ -13,7 +13,7 @@
             <h5>Documentation</h5>
             <ul class="list-unstyled text-small">
                 <li><a class="text-decoration-none text-reset" href="?action=docLang">Language</a></li>
-                <li><a class="text-decoration-none text-reset" href="#">Icon</a></li>
+                <li><a class="text-decoration-none text-reset" href="?action=icon">Icon</a></li>
             </ul>
         </div>
         <div class="col-6 col-md">
